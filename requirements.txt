@@ -1,0 +1,12 @@
+langchain
+langchain-openai
+langchain-core
+langchain-community
+langchain-groq
+langgraph
+llama-cloud-services
+langchain_google_genai
+chromadb
+streamlit>=1.35.0
+nest_asyncio
+pymongo
